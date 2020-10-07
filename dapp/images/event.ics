@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//timeanddate.com//Event Time Announcer
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTART:20201006T160000Z
+DTEND:20201006T173000Z
+TRANSP:TRANSPARENT
+SUMMARY:Full Time Crypto Webinar
+DESCRIPTION:Full Time Crypto Webinar\nTime when the event takes place: \n\
+ nUTC: Tuesday, 6 October 2020, 16:00\nLjubljana: Tuesday, 6 October 2020,
+  18:00\n\nTime in some other locations:\n\nSydney: Wednesday, 7 October 2
+ 020, 03:00\nTokyo: Wednesday, 7 October 2020, 01:00\nBeijing: Wednesday, 
+ 7 October 2020, 00:00\nMoscow: Tuesday, 6 October 2020, 19:00\nNew Delhi:
+  Tuesday, 6 October 2020, 21:30\nParis: Tuesday, 6 October 2020, 18:00\nL
+ ondon: Tuesday, 6 October 2020, 17:00\nBuenos Aires: Tuesday, 6 October 2
+ 020, 13:00\nNew York: Tuesday, 6 October 2020, 12:00\nLos Angeles: Tuesda
+ y, 6 October 2020, 09:00\n\n\nList generated using timeanddate.com's Even
+ t Time Announcer\nhttp://www.timeanddate.com/worldclock/fixedtime.html?is
+ o=20201006T1600&msg=Full%20Time%20Crypto%20Webinar\n
+URL;VALUE=URI:http://www.timeanddate.com/worldclock/fixedtime.html?iso=202
+ 01006T1600&msg=Full%20Time%20Crypto%20Webinar
+UID:http://www.timeanddate.com/worldclock/fixedtime.html?iso=20201006T1600
+ &msg=Full%20Time%20Crypto%20Webinar
+DTSTAMP:20201006T160000Z
+END:VEVENT
+END:VCALENDAR
